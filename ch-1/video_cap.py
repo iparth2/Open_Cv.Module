@@ -1,6 +1,6 @@
 import cv2
 
-cap = cv2.VideoCapture(r"C:\Users\Hp\Desktop\cv\assets\video_2023-04-29_22-29-11.mp4")
+cap = cv2.VideoCapture(r"C:\Users\Hp\Desktop\New folder\Assets\video_2023-04-22_09-45-18.mp4")
 
 while True:
     success , img = cap.read()
